@@ -50,6 +50,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Core\WeakReference`1.cs" />
+    <Compile Include="Mvvm\ConcatCollection.cs" />
+    <Compile Include="Mvvm\ConcatCollection`1.cs" />
+    <Compile Include="Mvvm\ObservableConcatCollection`1.cs" />
     <Compile Include="Mvvm\ObservableViewModelCollection`2.cs" />
     <Compile Include="Mvvm\ViewModelCollection.cs" />
     <Compile Include="Mvvm\ViewModelCollection`2.cs" />
